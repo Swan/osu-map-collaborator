@@ -3,11 +3,11 @@
 
 # Usage
 * Install [Node.js v7.x.x](https://nodejs.org)
-* Install the dependencies running `npm install` in the terminal
-* Download the source or clone the repository using git `git clone https://githubl.com/Swan/osu-map-collaborator`
-* Change to the osu-map-collaborator directory by running `cd osu-map-collaborator` in the terminal
+* Install the dependencies running `npm install`
+* Download the source or clone the repository using git `git clone https://github.com/Swan/osu-map-collaborator`
+* Change to the osu-map-collaborator directory by running `cd osu-map-collaborator`
 * Copy your .osu files to the directory
-* Run the application by running `node app.js` in the terminal
+* Run the application by running `node app.js`
 
 # Example
 <p align="center">
