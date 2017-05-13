@@ -10,7 +10,7 @@
 
 # Example
 <p align="center">
-  <img src="https://juicy.eggplants.org/6go49n.png" />
+  <img src="https://juicy.eggplants.org/fvk7xe.png" />
 </p>
 
 > For now, it's just a console application. eventually I'll turn it into an executable that you can just run and it should achieve the same effect.
