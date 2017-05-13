@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://juicy.eggplants.org/t4nork.png">
-</p>
-<hr/>
-
 # osu! Map Collaborator
 > osu! Map Collaborator is a neat tool that mashes up two osu! beatmaps. This is especially useful for mappers who want to collaborate on beatmaps.
 
@@ -13,7 +8,12 @@
 * Copy your .osu files to the directory
 * Run the application by running `node app.js` in the terminal
 
-Eventually I'll turn it into an executable that you can just run and it should achieve the same effect.
+# Example
+<p align="center">
+  <img src="https://juicy.eggplants.org/6go49n.png" />
+</p>
+
+> For now, it's just a console application. eventually I'll turn it into an executable that you can just run and it should achieve the same effect.
 
 # LICENSE
 
