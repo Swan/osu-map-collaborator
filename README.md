@@ -1,5 +1,10 @@
+<p align="center">
+<img src="https://juicy.eggplants.org/t4nork.png">
+</p>
+<hr/>
+
 # osu! Map Collaborator
-osu! Map Collaborator is a neat tool that mashes up two osu! beatmaps. This is especially useful for mappers who want to collaborate on beatmaps.
+> osu! Map Collaborator is a neat tool that mashes up two osu! beatmaps. This is especially useful for mappers who want to collaborate on beatmaps.
 
 # Usage
 * Install [Node.js v7.x.x](https://nodejs.org)
