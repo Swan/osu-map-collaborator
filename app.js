@@ -7,7 +7,3 @@ const main = () => {
 };
 
 main();
-
-
-
-
